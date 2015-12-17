@@ -1,7 +1,7 @@
 # Git-ified Development WordPress Installer
 This is a system to create a git-ified WordPress installation. The end result is that the entire WordPress installation is in git, with the following notes: 
 - WordPress itself is a submodule (see Note (2));
-- the WordPress database credentials;
+- the WordPress database credentials; (where are they stored?)
 - anything in the root folder that is not related to this install;
 - anything in wp-content that is not 
   - themes/ 
